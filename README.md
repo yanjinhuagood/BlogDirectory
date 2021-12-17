@@ -103,4 +103,4 @@
 
 [49）WPF实现仪表盘（刻度跟随）](https://mp.weixin.qq.com/s?__biz=MzAwMzI4Nzc5Mg==&mid=2647484831&idx=1&sn=68224ae89e6944248bdea5ec05ffae96&chksm=8304b600b4733f169b56e6b35ac12c60586915c3656432145f3ea0680d8e7bbe396d0e543945&token=194317154&lang=zh_CN#rd)  
 
-[50）WPF实现Android菜单动画](https://mp.weixin.qq.com/s?__biz=MzAwMzI4Nzc5Mg==&mid=2647484480&idx=1&sn=b29ce07b0e306657d879efa9d4d54702&chksm=8304b7dfb4733ec95dae3987d40255c23fc9e5c3a23ae68c4d81693bfe82b45b26d444241b75&token=194317154&lang=zh_CN#rd)  # BlogDirectory
+[50）WPF实现Android菜单动画](https://mp.weixin.qq.com/s?__biz=MzAwMzI4Nzc5Mg==&mid=2647484480&idx=1&sn=b29ce07b0e306657d879efa9d4d54702&chksm=8304b7dfb4733ec95dae3987d40255c23fc9e5c3a23ae68c4d81693bfe82b45b26d444241b75&token=194317154&lang=zh_CN#rd)  
