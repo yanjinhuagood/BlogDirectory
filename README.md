@@ -1,4 +1,4 @@
-# 公众号文章目录(51)
+# 公众号文章目录(52)
 
 [1）WPF 实现圣诞树](https://mp.weixin.qq.com/s?__biz=MzAwMzI4Nzc5Mg==&mid=2647485539&idx=1&sn=a37b03a021b212ac32966cccda4ba852&chksm=8304b3fcb4733aead94af9e790e25964ae7033eec2e5afe95dca515a98a7e075071dec138731&scene=178&cur_album_id=1785824210196463617#rd)  
 
@@ -106,3 +106,5 @@
 [50）WPF 实现展示反应盘、者试剂仓控件](https://mp.weixin.qq.com/s/Iub2A6PHMIvwiFnLKPyGXg)  
 
 [51）WPF实现Android菜单动画](https://mp.weixin.qq.com/s?__biz=MzAwMzI4Nzc5Mg==&mid=2647484480&idx=1&sn=b29ce07b0e306657d879efa9d4d54702&chksm=8304b7dfb4733ec95dae3987d40255c23fc9e5c3a23ae68c4d81693bfe82b45b26d444241b75&token=194317154&lang=zh_CN#rd)  
+
+[52）WPF 实现加速小火箭~](https://mp.weixin.qq.com/s/nHrtEwumtT0FJSKLfc_11g)  
