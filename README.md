@@ -1,4 +1,4 @@
-# 公众号文章目录(55
+# 公众号文章目录(56
 
 [1）WPF 实现圣诞树](https://mp.weixin.qq.com/s?__biz=MzAwMzI4Nzc5Mg==&mid=2647485539&idx=1&sn=a37b03a021b212ac32966cccda4ba852&chksm=8304b3fcb4733aead94af9e790e25964ae7033eec2e5afe95dca515a98a7e075071dec138731&scene=178&cur_album_id=1785824210196463617#rd)  
 
@@ -113,4 +113,6 @@
 
 [54）WPF 实现3D翻转倒计时控件~](https://mp.weixin.qq.com/s/cS5gYF093nfSy-JZUJCKKg)
 
-[55）WPF 实现图片切成九宫格控件~](https://mp.weixin.qq.com/s/K-sgtjCP_GruEsIZFBTSWQ)
+[55）WPF 实现动态Windows桌面壁纸~](https://mp.weixin.qq.com/s/DDMpaYWJKC8kX6eaXPmvKQ)
+
+[56）WPF 实现图片切成九宫格控件~](https://mp.weixin.qq.com/s/K-sgtjCP_GruEsIZFBTSWQ)
