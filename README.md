@@ -1,4 +1,4 @@
-# 公众号文章目录(56
+# 公众号文章目录(73
 
 [1）WPF 实现圣诞树](https://mp.weixin.qq.com/s?__biz=MzAwMzI4Nzc5Mg==&mid=2647485539&idx=1&sn=a37b03a021b212ac32966cccda4ba852&chksm=8304b3fcb4733aead94af9e790e25964ae7033eec2e5afe95dca515a98a7e075071dec138731&scene=178&cur_album_id=1785824210196463617#rd)  
 
@@ -116,3 +116,37 @@
 [55）WPF 实现动态Windows桌面壁纸~](https://mp.weixin.qq.com/s/DDMpaYWJKC8kX6eaXPmvKQ)
 
 [56）WPF 实现图片切成九宫格控件~](https://mp.weixin.qq.com/s/K-sgtjCP_GruEsIZFBTSWQ)
+
+[57）WPF开发登录窗口之——窗口布局~](https://mp.weixin.qq.com/s/U93CJGM8-i3mvY8UXtrO0Q)
+
+[58）WPF开发登录窗口之——添加文本输入框用户控件~](https://mp.weixin.qq.com/s/_ZYH-bwNz7flcK40lXrI4A)
+
+[59）WPF开发登录窗口之——添加密码完善登录窗口~](https://mp.weixin.qq.com/s/UC6v9Zwk-r1u6TiJdDaQ-A)
+
+[60）CefSharp 支持mp4](https://www.cnblogs.com/yanjinhua/p/7874196.html)
+
+[61）WPF TextBox 如何简单粗暴的实现水印效果?](https://www.cnblogs.com/yanjinhua/p/13355941.html)
+
+[62）WPF 如何使用APlayer播放视频 ](https://www.cnblogs.com/yanjinhua/p/8289005.html)
+
+[63）WPF 根据X与Y轴获取内部值 ](https://www.cnblogs.com/yanjinhua/p/8819373.html)
+
+[64）WPF 使用FFMEPG录制屏幕 ](https://www.cnblogs.com/yanjinhua/p/10683007.html)
+
+[65）WPF 使用蜻蜓FMAPI 调用查询API内容展示，进行播放音频 ](https://www.cnblogs.com/yanjinhua/p/12195731.html)
+
+[66）WPF 使用ArcGISRuntime 加载 高德、腾讯、百度地图 瓦片并显示 ](https://www.cnblogs.com/yanjinhua/p/12534355.html)
+
+[67）WPF 开发的实用小工具（附源码）持续更新](https://www.cnblogs.com/yanjinhua/p/13896894.html)
+
+[68）WPF 开发的实用小工具（附源码）持续更新（二）拖动应用](https://www.cnblogs.com/yanjinhua/p/14005946.html)
+
+[69）WPF 开发的实用小工具（附源码）持续更新（三）移除应用](https://www.cnblogs.com/yanjinhua/p/14011375.html)
+
+[70）WPF 实现等待界面效果（附源码）持续更新（四）加载应用](https://www.cnblogs.com/yanjinhua/p/14053344.html)
+
+[71）WPF 开发的实用小工具（附源码）持续更新（五）靠边隐藏](https://www.cnblogs.com/yanjinhua/p/14086146.html)
+
+[72）WPF 开发的实用小工具（附源码）持续更新（六）嵌入桌面](https://www.cnblogs.com/yanjinhua/p/14103179.html)
+
+[73）WPF 开发的实用小工具（附源码）持续更新（七）根据应用首个字的首字母按键定位](https://www.cnblogs.com/yanjinhua/p/14174296.html)
