@@ -1,4 +1,4 @@
-# 公众号文章目录(74
+# 公众号文章目录(75
 
 [1）WPF 实现圣诞树](https://mp.weixin.qq.com/s?__biz=MzAwMzI4Nzc5Mg==&mid=2647485539&idx=1&sn=a37b03a021b212ac32966cccda4ba852&chksm=8304b3fcb4733aead94af9e790e25964ae7033eec2e5afe95dca515a98a7e075071dec138731&scene=178&cur_album_id=1785824210196463617#rd)  
 
@@ -152,4 +152,6 @@
 [73）WPF 开发的实用小工具（附源码）持续更新（七）根据应用首个字的首字母按键定位](https://www.cnblogs.com/yanjinhua/p/14174296.html)
 
 [74）WPF 实现大转盘抽奖~](https://mp.weixin.qq.com/s/F2hzB4TJ_wDtocCF5lphrw)
+
+[75）WPF 基础控件之Window样式~](https://mp.weixin.qq.com/s/qxDnjddUr0nDnjux0VTaXg)
 
