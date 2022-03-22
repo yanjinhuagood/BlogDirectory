@@ -1,4 +1,4 @@
-# 公众号文章目录(86
+# 公众号文章目录(87
 
 [1）WPF 实现圣诞树](https://mp.weixin.qq.com/s?__biz=MzAwMzI4Nzc5Mg==&mid=2647485539&idx=1&sn=a37b03a021b212ac32966cccda4ba852&chksm=8304b3fcb4733aead94af9e790e25964ae7033eec2e5afe95dca515a98a7e075071dec138731&scene=178&cur_album_id=1785824210196463617#rd)  
 
@@ -175,4 +175,6 @@
 
 [85）WPF 实现验证码控件](https://mp.weixin.qq.com/s/4h6QZJZbloCAfGnIrCpJVQ)
 
-[85）WPF 基础控件之 DatePicker 样式](https://mp.weixin.qq.com/s/CfGC2V7EUpJ4-4WUf2mhfQ)
+[86）WPF 基础控件之 DatePicker 样式](https://mp.weixin.qq.com/s/CfGC2V7EUpJ4-4WUf2mhfQ)
+
+[87）WPF 实现音频播放动画控件](https://mp.weixin.qq.com/s/KcdGWAlhllqxrJCKaFoG4w)
