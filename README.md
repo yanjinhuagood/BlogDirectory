@@ -1,4 +1,4 @@
-# 公众号文章目录(88
+# 公众号文章目录(89
 
 [1）WPF 实现圣诞树](https://mp.weixin.qq.com/s?__biz=MzAwMzI4Nzc5Mg==&mid=2647485539&idx=1&sn=a37b03a021b212ac32966cccda4ba852&chksm=8304b3fcb4733aead94af9e790e25964ae7033eec2e5afe95dca515a98a7e075071dec138731&scene=178&cur_album_id=1785824210196463617#rd)  
 
@@ -180,3 +180,5 @@
 [87）WPF 实现音频播放动画控件](https://mp.weixin.qq.com/s/KcdGWAlhllqxrJCKaFoG4w)
 
 [88）WPF 基础控件之 Expander 样式](https://mp.weixin.qq.com/s/qEuZx1TOnjStj6lr2oB4QA)
+
+[89）WPF 实现截屏控件之移动（二）（仿微信）](https://mp.weixin.qq.com/s/Ab6tioQBgE_3LadoCsDbtA)
