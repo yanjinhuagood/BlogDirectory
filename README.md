@@ -1,4 +1,4 @@
-# 公众号文章目录(95
+# 公众号文章目录(97
 
 [1）WPF 实现圣诞树](https://mp.weixin.qq.com/s?__biz=MzAwMzI4Nzc5Mg==&mid=2647485539&idx=1&sn=a37b03a021b212ac32966cccda4ba852&chksm=8304b3fcb4733aead94af9e790e25964ae7033eec2e5afe95dca515a98a7e075071dec138731&scene=178&cur_album_id=1785824210196463617#rd)  
 
@@ -191,6 +191,10 @@
 
 [93）WPF 截图控件之绘制方框与椭圆(四) 「仿微信」](https://mp.weixin.qq.com/s/YuxROpUddYG5IgmkXtIaIQ)
 
-[94）WPF 基础控件之 ListBox样式](https://mp.weixin.qq.com/s/hHuSlMlBSeS5_BLYWGj0gw)
+[94）WPF 基础控件之 ListView样式](https://mp.weixin.qq.com/s/hHuSlMlBSeS5_BLYWGj0gw)
 
 [95）WPF 截图控件之绘制箭头(五)「仿微信」](https://mp.weixin.qq.com/s/bFDKr16AEm9_l6Vn7k2ieA)
+
+[96）WPF 基础控件之 Menu样式](https://mp.weixin.qq.com/s/f2Z8EgaypiM_SkgxQCg55w)
+
+[97）WPF 截图控件之绘制箭头禁止越界(六)「仿微信」](https://mp.weixin.qq.com/s/PMjNhliEKRERHHVnHQLk6g)
