@@ -242,3 +242,10 @@
 [118）WPF 实现星空效果](https://mp.weixin.qq.com/s/0z0vxysNxuu2H3daT0VUrA)
 
 [119）WPF 基础控件之 TabControl样式](https://mp.weixin.qq.com/s/X4Zl7SL4nssue2o-wnP9Gg)
+
+[120）WPF 实现窗体抖动效果](https://mp.weixin.qq.com/s/ijw2pck6O6r_zdcb0NgfkQ)
+
+[121）WPF 实现心电图曲线绘制](https://mp.weixin.qq.com/s/HoUJQEcgqpMuO7IU0sRzOQ)
+
+[122）WPF 实现带蒙版的 MessageBox 消息提示框](https://mp.weixin.qq.com/s/xKNbCYInTYoB99O1k_fgrg)
+
