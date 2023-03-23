@@ -1,13 +1,33 @@
-As founder of the WPFDevelopersOrg organization, he plays a key role in community development. Now the WPFDevelopersOrg organization has 1597 stars on GitHub, and in 2021, it will create a WeChat public account community, a QQ exchange community, and a WeChat group community to help more WPF developers.
+# 2022.9~2023.9 MVP Contributions
 
-As one of the top committers, he contributed about 531 commits and developed the integration between SoftwareHelper and WindowsAPI, for example, interacting with Windows system quickly and conveniently for users to use applications quickly. He also promoted the creation and development of WPFDevelopers advanced custom controls and WPFDevelopers.Minimal basic controls, enabling the community to better use WPF applications and technologies.
+Over the past year, he has been involved in the construction of open source projects, actively participating in public speaking, technical blogs, and technical videos on topics such as WPF, algorithms, and more. He also creates. The WPF Developer Chinese Community helps developers in the technology community learn and promote the technology.  
+Here are the details:
 
+Traffic statistics of major web platforms in the past year:
 
+bilibili : Video views 87000.
 
-As a technical evangelist, he is active in public webinars, podcasts, and technical blogs on topics including WPF best practices. His multiple sharing on the blog has affected more than 7,000 fans in total.
+zhihu: Article views 1,929 ， Video views 401.
 
+WeChat public account : Article views 101437, Video views 50492.
 
-### Below is a screenshot of the fan group and WeChat public account
+### 1.Articles   
+The total number of videos is 140.
+   - [https://github.com/yanjinhuagood/BlogDirectory/blob/main/README202109.md](https://github.com/yanjinhuagood/BlogDirectory/blob/main/README202109.md)
+
+### 2.Videos
+The total number of videos is 96.
+   - [https://space.bilibili.com/320207474/channel/collectiondetail?sid=112994](https://space.bilibili.com/320207474/channel/collectiondetail?sid=112994)
+   
+### 3.个人开源项目
+此组织下十个项目，本人也是组织创建者。
+   - [https://github.com/WPFDevelopersOrg](https://github.com/WPFDevelopersOrg)
+   - [https://github.com/yanjinhuagood](https://github.com/yanjinhuagood)
+
+### 所有平台粉丝信息
+![5babc4373165712d74860eccd1a18a6](https://user-images.githubusercontent.com/23089734/227242367-07215f9f-0a38-4cac-8c31-29b34d195eef.jpg)
+![0b0615350ade2f41c3c9f5ba2e84bf8](https://user-images.githubusercontent.com/23089734/227242403-dc505be9-23f3-4535-9211-f5aabc7f8fa5.jpg)
+
 #### QQGroup
 ![image](https://user-images.githubusercontent.com/23089734/226178042-f863679c-d8d1-4102-a162-0b4c2b624cc7.png)
 ![image](https://user-images.githubusercontent.com/23089734/226178065-99c408d3-6d32-4280-a723-3d8b2390fb9a.png)
