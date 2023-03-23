@@ -25,6 +25,8 @@ The total number of videos is 96.
    - [https://github.com/yanjinhuagood](https://github.com/yanjinhuagood)
 
 ### 所有平台粉丝信息
+
+#### WeChatGroup
 ![5babc4373165712d74860eccd1a18a6](https://user-images.githubusercontent.com/23089734/227242367-07215f9f-0a38-4cac-8c31-29b34d195eef.jpg)
 ![0b0615350ade2f41c3c9f5ba2e84bf8](https://user-images.githubusercontent.com/23089734/227242403-dc505be9-23f3-4535-9211-f5aabc7f8fa5.jpg)
 
