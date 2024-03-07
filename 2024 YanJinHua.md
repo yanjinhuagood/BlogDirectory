@@ -1,4 +1,4 @@
-# 2022.9~2023.9 MVP Contributions
+# 2023~2024 MVP Contributions
 
 Over the past year, he has been involved in the construction of open source projects, actively participating in public speaking, technical blogs, and technical videos on topics such as WPF, algorithms, and more. He also creates. The WPF Developer Chinese Community helps developers in the technology community learn and promote the technology.  
 Here are the details:
