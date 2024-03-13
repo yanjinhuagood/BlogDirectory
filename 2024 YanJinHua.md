@@ -1,7 +1,7 @@
 # 2023~2024 MVP Contributions
 
-Over the past year, he has been involved in the construction of open source projects, actively participating in public speaking, technical blogs, and technical videos on topics such as WPF, algorithms, and more. He also creates. The WPF Developer Chinese Community helps developers in the technology community learn and promote the technology.  
-Here are the details:
+In the past year, he has been involved in the construction of open-source projects, actively participating in blogs and technical videos about WPF technology. He also creates. The WPF developer Chinese community helps developers in the technical community learn and promote the technology.
+The following is detailed information:
 
 Traffic statistics of major web platforms in the past year:
 
@@ -9,46 +9,23 @@ Traffic statistics of major web platforms in the past year:
 
 [zhihu](https://www.zhihu.com/people/WPFDevelopers): Article views 123,347 ， Video views 8,551.
 
-WeChat public account : Article views 101437, Video views 50492.
+[WeChat public account](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAwMzI4Nzc5Mg==&scene=123&uin=&key=&devicetype=Windows+10+x64&version=6309092b&lang=zh_CN&a8scene=0&session_us=gh_cce8c579dd43) : Article views 101437, Video views 50492.
 
 ### 1.Articles   
 The total number of videos is 123.
    - [Article](https://github.com/yanjinhuagood/BlogDirectory/blob/main/2023.md)
+   - [Article](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAwMzI4Nzc5Mg==&action=getalbum&album_id=2754510204914040834&scene=126&sessionid=946015035&uin=&key=&devicetype=Windows+10+x64&version=6309092b&lang=zh_CN&ascene=0)
 
 ### 2.Videos
-The total number of videos is 40.
-   -[1](https://www.bilibili.com/video/BV19m411U7To/)
-   -[2](https://www.bilibili.com/video/BV1ej421D7Mb/)
-   -[3](https://www.bilibili.com/video/BV1kx4y1Z73F/)
-   -[4](https://www.bilibili.com/video/BV18K4y1q7XW/)
-   -[5](https://www.bilibili.com/video/BV1Xi4y187Pe/)
-   -[6](https://www.bilibili.com/video/BV11c411U7k2/)
-   -[7](https://www.bilibili.com/video/BV1F64y1779W/)
-   -[8](https://www.bilibili.com/video/BV1aC4y1P7nR/?vd_source=e3038596252772293ff626eb2462b9c9)
-   -[一款开源 WPF 版的斗地主](https://www.bilibili.com/video/BV12c41167My/?vd_source=e3038596252772293ff626eb2462b9c9)
-   -[10](https://www.bilibili.com/video/BV1WG41127qM/)
-   -[11](https://www.bilibili.com/video/BV1Vj411h72t/?vd_source=e3038596252772293ff626eb2462b9c9)
-   -[12](https://www.bilibili.com/video/BV1Tm4y1V7YD/?vd_source=e3038596252772293ff626eb2462b9c9)
-   -[13](https://www.bilibili.com/video/BV1dr4y1R7m5/)
-   -[14](https://www.bilibili.com/video/BV1uP411Y7k5/)
-   -[15](https://www.bilibili.com/video/BV1UN411i71B/?vd_source=e3038596252772293ff626eb2462b9c9)
-   -[16](https://www.bilibili.com/video/BV1Dm4y1n7jv/)
-   -[17](https://www.bilibili.com/video/BV1oF411y7ip/?vd_source=e3038596252772293ff626eb2462b9c9)
-   -[18](https://www.bilibili.com/video/BV1Nk4y1N7n9/?vd_source=e3038596252772293ff626eb2462b9c9)
-   -[19](https://www.bilibili.com/video/BV1JX4y1s7Ns/?vd_source=e3038596252772293ff626eb2462b9c9)
-   -[20](https://www.bilibili.com/video/BV1mM4y1Y7SY/)
-   -[21](https://www.bilibili.com/video/BV1fX4y1875c/)
-   -[22](https://www.bilibili.com/video/BV1Tm4y1q7uF/)
-   -[23](https://www.bilibili.com/video/BV1Hs4y1i7VU/?vd_source=e3038596252772293ff626eb2462b9c9)
-   -[24](https://www.bilibili.com/video/BV1FX4y1a7xR/)
-   -[25WPF 简单实现下拉筛选控件](https://www.bilibili.com/video/BV1wX4y1C7KS/)
-   
-   - [Videos](https://space.bilibili.com/320207474/channel/collectiondetail?sid=112994)
+The total number of videos is 32.
+- [Article](https://github.com/yanjinhuagood/BlogDirectory/blob/main/2023bilibili.md)
    
 ### 3.Open source projects
 I am also the creator of this organization's next ten projects.
-   - [https://github.com/WPFDevelopersOrg](https://github.com/WPFDevelopersOrg)
-   - [https://github.com/yanjinhuagood](https://github.com/yanjinhuagood)
+   - [WPFDevelopers](https://github.com/WPFDevelopersOrg/WPFDevelopers)
+   - [WPFDevelopers.Minimal](https://github.com/WPFDevelopersOrg/WPFDevelopers.Minimal)
+   - [Nimble](https://github.com/WPFDevelopersOrg/Nimble)
+   - [DesktopRecord](https://github.com/yanjinhuagood/DesktopRecord)
 
 ### All platform fan information
 
@@ -68,5 +45,6 @@ I am also the creator of this organization's next ten projects.
 ![image](https://github.com/yanjinhuagood/BlogDirectory/assets/23089734/4338010e-08a9-44fa-a817-5c20457ccb96)
 
 #### bilibili
-![image](https://user-images.githubusercontent.com/23089734/226178204-83358849-a77c-4ca6-9047-2e4dc89567a1.png)
+![image](https://github.com/yanjinhuagood/BlogDirectory/assets/23089734/79f0fa1d-4f8e-43b8-ba17-464a7e6b5b5b)
+
 
