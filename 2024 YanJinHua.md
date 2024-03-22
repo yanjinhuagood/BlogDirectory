@@ -9,7 +9,7 @@ Traffic statistics of major web platforms in the past year:
 
 [zhihu](https://www.zhihu.com/people/WPFDevelopers): Article views 123,347 ， Video views 8,551.
 
-[WeChat public account](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAwMzI4Nzc5Mg==&scene=123&uin=&key=&devicetype=Windows+10+x64&version=6309092b&lang=zh_CN&a8scene=0&session_us=gh_cce8c579dd43) : Article views 101437, Video views 50492.
+[WeChat public account](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAwMzI4Nzc5Mg==&action=getalbum&album_id=1785824210196463617&scene=126&sessionid=1723945693&uin=&key=&devicetype=Windows+10+x64&version=6309092b&lang=zh_CN&ascene=0) : Article views 101437, Video views 50492.
 
 ### 1.Articles   
 The total number of videos is 123.
