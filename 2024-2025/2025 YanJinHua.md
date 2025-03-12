@@ -5,27 +5,26 @@ The following is detailed information:
 
 Traffic statistics of major web platforms in the past year:
 
-[bilibili](https://space.bilibili.com/320207474?spm_id_from=333.1007.0.0) : Video views 145,441.
+[bilibili](https://space.bilibili.com/320207474?spm_id_from=333.1007.0.0) : Video views 19000.
 
-[zhihu](https://www.zhihu.com/people/WPFDevelopers): Article views 123,347 ， Video views 8,551.
+[zhihu](https://www.zhihu.com/people/WPFDevelopers): Article views 343,418,  Video views 19,005.
 
-[WeChat public account](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAwMzI4Nzc5Mg==&action=getalbum&album_id=1785824210196463617&scene=126&sessionid=1723945693&uin=&key=&devicetype=Windows+10+x64&version=6309092b&lang=zh_CN&ascene=0) : Article views 101437, Video views 50492.
+[WeChat public account](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAwMzI4Nzc5Mg==&action=getalbum&album_id=1785824210196463617&scene=126&sessionid=1723945693&uin=&key=&devicetype=Windows+10+x64&version=6309092b&lang=zh_CN&ascene=0) : Article views 262000, Video views 187000.
 
 ### 1.Articles   
-The total number of videos is 123.
-   - [Article](https://github.com/yanjinhuagood/BlogDirectory/blob/main/2023.md)
-   - [Article](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAwMzI4Nzc5Mg==&action=getalbum&album_id=2754510204914040834&scene=126&sessionid=946015035&uin=&key=&devicetype=Windows+10+x64&version=6309092b&lang=zh_CN&ascene=0)
+The total number of videos is 48.
+   - [Article](https://github.com/yanjinhuagood/BlogDirectory/blob/main/2024-2025/2024WeChat.md)
+   - [Article](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAwMzI4Nzc5Mg==&action=getalbum&album_id=3271702074443005959&scene=126&sessionid=-1969172661#wechat_redirect)
 
 ### 2.Videos
-The total number of videos is 32.
-- [Article](https://github.com/yanjinhuagood/BlogDirectory/blob/main/2023bilibili.md)
+The total number of videos is 21.
+- [Article](https://github.com/yanjinhuagood/BlogDirectory/blob/main/2024-2025/bilibili.md)
    
 ### 3.Open source projects
 I am also the creator of this organization's next ten projects.
    - [WPFDevelopers](https://github.com/WPFDevelopersOrg/WPFDevelopers)
    - [WPFDevelopers.Minimal](https://github.com/WPFDevelopersOrg/WPFDevelopers.Minimal)
    - [Nimble](https://github.com/WPFDevelopersOrg/Nimble)
-   - [DesktopRecord](https://github.com/yanjinhuagood/DesktopRecord)
 
 ### All platform fan information
 
