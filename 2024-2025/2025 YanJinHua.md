@@ -36,13 +36,16 @@ I am also the creator of this organization's next ten projects.
 #### QQGroup
 ![image](https://github.com/yanjinhuagood/BlogDirectory/assets/23089734/d5b7fe04-d845-43c8-b636-6e5e19c54424)
 ![image](https://github.com/yanjinhuagood/BlogDirectory/assets/23089734/f99b6297-0660-4c93-9ed7-56617fb50deb)
-![image](https://github.com/yanjinhuagood/BlogDirectory/assets/23089734/b2667e93-a854-4719-adea-4e91eb82e589)
+![image](https://github.com/user-attachments/assets/b3d98ce3-8096-4970-b206-c3ecfe3cbb7b)
+
 
 
 #### WeChat public account
-![image](https://github.com/yanjinhuagood/BlogDirectory/assets/23089734/47ba1572-0b73-4a3d-805b-698c5ec0e35b)
-![image](https://github.com/yanjinhuagood/BlogDirectory/assets/23089734/4338010e-08a9-44fa-a817-5c20457ccb96)
+![image](https://github.com/user-attachments/assets/b9d50a95-0d6d-4878-8610-a2c2249f15b6)
+![image](https://github.com/user-attachments/assets/041847ef-c691-4e96-be3e-4482fc5bbcd0)
+
 
 #### bilibili
-![image](https://github.com/yanjinhuagood/BlogDirectory/assets/23089734/79f0fa1d-4f8e-43b8-ba17-464a7e6b5b5b)
+![image](https://github.com/user-attachments/assets/d287fd62-dbed-49d6-ae10-8c0fce537ea6)
+
 
