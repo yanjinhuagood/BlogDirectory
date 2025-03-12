@@ -11,6 +11,13 @@ Traffic statistics of major web platforms in the past year:
 
 [WeChat public account](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAwMzI4Nzc5Mg==&action=getalbum&album_id=1785824210196463617&scene=126&sessionid=1723945693&uin=&key=&devicetype=Windows+10+x64&version=6309092b&lang=zh_CN&ascene=0) : Article views 262000, Video views 187000.
 
+Six candidates were nominated in the past year, resulting in four candidates   
+Successful nomination:   
+[Yang Qu](https://github.com/vickyqu115)   
+[Haijun Li](https://github.com/HeBianGu)   
+[Shiquan Liu](https://github.com/dotnet9)   
+[Kaiwen Ai](https://github.com/akwkevin)   
+
 ### 1.Articles   
 The total number of videos is 48.
    - [Article](https://github.com/yanjinhuagood/BlogDirectory/blob/main/2024-2025/2024WeChat.md)
