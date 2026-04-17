@@ -12,7 +12,7 @@ Traffic statistics of major web platforms in the past year:
 
 [WeChat public account](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAwMzI4Nzc5Mg==&action=getalbum&album_id=1785824210196463617&scene=126&sessionid=1723945693&uin=&key=&devicetype=Windows+10+x64&version=6309092b&lang=zh_CN&ascene=0) : Article views 193.6k, Video views 22021.
 
-Six candidates were nominated in the past year, resulting in four candidates   
+Last year, one candidate was nominated, and ultimately one candidate was selected 
 Successful nomination:   
 [Jia Zhao](https://github.com/zhaotianff)    
 
