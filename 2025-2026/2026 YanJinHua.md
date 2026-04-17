@@ -20,16 +20,13 @@ Successful nomination:
 The total number of videos is 48.
    - [Article](https://github.com/yanjinhuagood/BlogDirectory/blob/main/2025-2026/PublicWeChat.md)
    - [Article](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAwMzI4Nzc5Mg==&action=getalbum&album_id=3271702074443005959&scene=126&sessionid=-1969172661#wechat_redirect)
-
-### 2.Videos
-The total number of videos is 21.
-- [Article](https://github.com/yanjinhuagood/BlogDirectory/blob/main/2024-2025/bilibili.md)
-   
-### 3.Open source projects
+  
+### 2.Open source projects
 I am also the creator of this organization's next ten projects.
    - [WPFDevelopers](https://github.com/WPFDevelopersOrg/WPFDevelopers)
    - [WPFDevelopers.Minimal](https://github.com/WPFDevelopersOrg/WPFDevelopers.Minimal)
    - [Nimble](https://github.com/WPFDevelopersOrg/Nimble)
+   - [QingTing.Fm](https://github.com/yanjinhuagood/QingTing.Fm)
 
 ### All platform fan information
 
