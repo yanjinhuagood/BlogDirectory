@@ -1,6 +1,7 @@
 
 | 标题 | 链接 |
 | :--- | :--- |
+| 零依赖打造彩色终端 AI 聊天工具——基于 .NET 10 的 ChatAgentCLI | https://mp.weixin.qq.com/s/6hQGL1KJ_P8OKb1IEOq06A |
 | DataGrid 如何实现列头筛选 | https://mp.weixin.qq.com/s/3EBweZXdl4hQ7VLw3dUDoQ |
 | AI 不止会说，更会做 | https://mp.weixin.qq.com/s/jLmy3f_tqO2O0CR6prVmhA |
 | MCP 与 .NET 开发：影响与机遇 | https://mp.weixin.qq.com/s/Frj3dfiYJIEiV1btS4EsGA |
