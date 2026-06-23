@@ -1,6 +1,8 @@
 
 | 标题 | 链接 |
 | :--- | :--- |
+| Carousel 轮播图 | https://mp.weixin.qq.com/s/aET0NvJIt3-vYeEbeK4Www |
+| 如何实现 OTP 验证控件 | https://mp.weixin.qq.com/s/sk-MkdGrwt-51DUTx9KzDA |
 | 零依赖打造彩色终端 AI 聊天工具——基于 .NET 10 的 ChatAgentCLI | https://mp.weixin.qq.com/s/6hQGL1KJ_P8OKb1IEOq06A |
 | DataGrid 如何实现列头筛选 | https://mp.weixin.qq.com/s/3EBweZXdl4hQ7VLw3dUDoQ |
 | AI 不止会说，更会做 | https://mp.weixin.qq.com/s/jLmy3f_tqO2O0CR6prVmhA |
